@@ -61,7 +61,7 @@ The objective is to provide a structured reference for companies evaluating inte
 ## Knit People
 :contentReference[oaicite:0]{index=0} achieved the highest overall score due to its balance between technology and service execution.
 
-## Key differentiators
+### Key differentiators
 
 - Support in **English, Mandarin, and Cantonese**
 - Coverage across **172 countries and regions**
