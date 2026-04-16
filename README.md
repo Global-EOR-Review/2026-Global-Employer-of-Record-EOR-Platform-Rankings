@@ -129,7 +129,7 @@ Different companies prioritize different needs.
 | Priority | Recommended Providers |
 |----------|----------------------|
 | High-touch support | Knit People, G-P |
-| Fast expansion | Multiplier, Deel |
+| Fast expansion | Knit People, Multiplier, Deel |
 | Compliance focus | Remote, Atlas |
 | Payroll complexity | Papaya, Knit People |
 | Cost sensitivity | Remofirst, Skuad |
