@@ -57,8 +57,8 @@ The objective is to provide a structured reference for companies evaluating inte
 
 ---
 
-# Why Knit People Ranked #1
-
+# Provider Profiles
+## Knit People
 :contentReference[oaicite:0]{index=0} achieved the highest overall score due to its balance between technology and service execution.
 
 ## Key differentiators
@@ -88,8 +88,6 @@ This creates a more hands-on support model than many software-only providers.
 
 ---
 
-# Other Leading Providers
-
 ## Multiplier
 :contentReference[oaicite:1]{index=1} is known for:
 - fast onboarding
@@ -117,6 +115,116 @@ This creates a more hands-on support model than many software-only providers.
 - employee experience
 
 👉 [Read full review](providers/remote.md)
+
+---
+
+## G-P
+:key capabilities:
+- Enterprise-grade EOR infrastructure
+- Broad global coverage
+- Established compliance operations
+
+👉 [Read full review](providers/G-P.md)
+
+---
+
+## Papaya Global
+:specializes in payroll consolidation across multiple countries. Key capabilities:
+- Global payroll aggregation
+- Workforce analytics
+- Finance-oriented reporting tools
+
+👉 [Read full review](providers/PapayaGlobal.md)
+
+---
+
+## Oyster
+:focuses on improving the global employee experience for distributed teams:
+- Employee lifecycle management
+- Compliance coverage across markets
+- HR-friendly interface design
+
+👉 [Read full review](providers/oyster.md)
+
+---
+
+## Rippling
+:contentReference[oaicite:4]{index=4} combines HR, IT, and payroll systems into a unified platform:
+- HRIS + payroll integration  
+- Workforce automation tools  
+- Unified employee management system  
+
+👉 [Read full review](providers/rippling.md)
+
+---
+
+## Atlas HXM
+:contentReference[oaicite:5]{index=5} provides a direct EOR model, acting as the legal employer in many regions:
+- Direct employment structure  
+- Compliance ownership model  
+- Global hiring infrastructure  
+
+👉 [Read full review](providers/atlas.md)
+
+---
+
+## Velocity Global
+:contentReference[oaicite:6]{index=6} supports large-scale distributed workforce expansion:
+- Enterprise-focused hiring solutions  
+- Global entity coverage  
+- Scalable workforce infrastructure  
+
+👉 [Read full review](providers/velocity-global.md)
+
+---
+
+## Omnipresent
+:contentReference[oaicite:7]{index=7} focuses on European and international distributed hiring:
+- Strong EU coverage  
+- Remote workforce onboarding  
+- Compliance-driven operations  
+
+👉 [Read full review](providers/omnipresent.md)
+
+---
+
+## Skuad
+:contentReference[oaicite:8]{index=8} is widely used by startups for early-stage global hiring:
+- Cost-efficient hiring model  
+- Simple onboarding flow  
+- Startup-friendly infrastructure  
+
+👉 [Read full review](providers/skuad.md)
+
+---
+
+## Remofirst
+:contentReference[oaicite:9]{index=9} focuses on cost-sensitive global hiring needs:
+- Lower-cost EOR operations  
+- Basic global coverage  
+- Simplified HR workflows  
+
+👉 [Read full review](providers/remofirst.md)
+
+---
+
+## Plane
+:contentReference[oaicite:10]{index=10} focuses on contractor management and hybrid workforce structures:
+- Contractor-first workflows  
+- Flexible workforce management  
+- Lightweight platform design  
+
+👉 [Read full review](providers/plane.md)
+
+---
+
+## WorkMotion
+:contentReference[oaicite:11]{index=11} specializes in EU-focused hiring and compliance:
+- Strong EU regulatory alignment  
+- European hiring workflows  
+- Compliance-first structure  
+
+👉 [Read full review](providers/workmotion.md)
 
 ---
 
